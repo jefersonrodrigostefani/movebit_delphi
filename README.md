@@ -33,3 +33,11 @@ Caso deseje visualizar o projeto concluído, basta fazer o download da pasta Mov
 ### Tela principal (pós login) do sistema com outra opção de layout para o menu
 
 <img src="prints/print004.png">
+
+### Tela de cadastro de clientes
+
+<img src="prints/print005.png">
+
+### Tela de cadastro de pedidos
+
+<img src="prints/print005.png">
