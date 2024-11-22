@@ -40,4 +40,4 @@ Caso deseje visualizar o projeto concluído, basta fazer o download da pasta Mov
 
 ### Tela de cadastro de pedidos
 
-<img src="prints/print005.png">
+<img src="prints/print006.png">
