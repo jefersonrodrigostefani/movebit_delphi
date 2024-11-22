@@ -88,7 +88,7 @@
         <DCC_ExeOutput>D:\Desenv_Local\Delphi\Projetos\Movebit\Bin\</DCC_ExeOutput>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_Locale>1033</VerInfo_Locale>
-        <VerInfo_Keys>CompanyName=Guarani Sistemas;FileDescription=Guarani Sistemas;FileVersion=1.0.0.0;InternalName=Guarani Sistemas;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProgramID=com.embarcadero.$(MSBuildProjectName);ProductName=Guarani Sistemas;ProductVersion=1.0.0.0;Comments=</VerInfo_Keys>
+        <VerInfo_Keys>CompanyName=Movebit Sistemas;FileDescription=Movebit Sistemas;FileVersion=1.0.0.0;InternalName=Movebit Sistemas;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProgramID=com.embarcadero.$(MSBuildProjectName);ProductName=Movebit Sistemas;ProductVersion=1.0.0.0;Comments=</VerInfo_Keys>
         <DCC_DcuOutput>D:\Desenv_Local\Delphi\Projetos\Movebit\Dcu\</DCC_DcuOutput>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2)'!=''">

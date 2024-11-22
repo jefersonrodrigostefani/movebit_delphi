@@ -18,9 +18,13 @@ Mas você pode reproduzir os mesmos passos em outras versões, pois o princípio
 - Tmp : Ficam os arquivos que precisaremos disponibilizar para o projeto funcionar.
   - Data.zip : Contem o arquivo de banco de dados, MOVEBIT.FDB.
   - DLLs.zip : Contem as dlls necessárias para o funcionamento do sistema.
+  - Movebit.zip : Contem o projeto pronto.
   
-## Visualizar sem mexer
-Caso deseje visualizar o projeto concluído, basta fazer o download da pasta MovebitFinal e deixá-la na raiz do seu HD (C:\). 
+## Instalação do projeto pronto
+Dentro do diretório Tmp, encontre o arquivo Movebit.zip. Extraia a pasta para a raiz do seu HD, a unidade C:\. Se você quiser deixá-lo em outro local, não esqueça de alterar o caminho
+dentro do arquivo Movebit.ini, pois é a partir dele que o programa busca o banco de dados.
+
+## Segue alguns prints das telas do sistema.
 
 ### Tela de login do sistema
 
