@@ -18,3 +18,18 @@ Mas você pode reproduzir os mesmos passos em outras versões, pois o princípio
 - Tmp : Ficam os arquivos que precisaremos disponibilizar para o projeto funcionar.
   - Data.zip : Contem o arquivo de banco de dados, MOVEBIT.FDB.
   - DLLs.zip : Contem as dlls necessárias para o funcionamento do sistema.
+  
+## Visualizar sem mexer
+Caso deseje visualizar o projeto concluído, basta fazer o download da pasta MovebitFinal e deixá-la na raiz do seu HD (C:\). 
+
+### Tela de login do sistema
+
+<img src="prints/print002.png">
+
+### Tela principal (pós login) do sistema
+
+<img src="prints/print003.png">
+
+### Tela principal (pós login) do sistema com outra opção de layout para o menu
+
+<img src="prints/print004.png">
