@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{A38A502F-9E68-42AA-9361-CB5B1E822525}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Movebit.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Movebit">
+        <MSBuild Projects="Movebit.dproj"/>
+    </Target>
+    <Target Name="Movebit:Clean">
+        <MSBuild Projects="Movebit.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Movebit:Make">
+        <MSBuild Projects="Movebit.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Movebit"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Movebit:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Movebit:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

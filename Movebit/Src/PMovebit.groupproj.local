@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/22 11:19:04.000.787,D:\Desenv_Local\Delphi\Projetos\Guarani\Src\PGuarani.groupproj=D:\Desenv_Local\Delphi\Projetos\Guarani\Src\PJrs.groupproj</Transaction>
+    <Transaction>2024/11/22 11:19:49.000.259,D:\Desenv_Local\Delphi\Projetos\Guarani\Src\PJrs.groupproj=D:\Desenv_Local\Delphi\Projetos\Guarani\Src\PMovebit.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="D:\Desenv_Local\Delphi\Projetos\Movebit\Src\Movebit.dproj"/>
+	</Default.Personality>
+</BorlandProject>
