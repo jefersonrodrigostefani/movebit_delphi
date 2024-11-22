@@ -16,5 +16,5 @@ Mas você pode reproduzir os mesmos passos em outras versões, pois o princípio
 - Bin : Fica o arquivo executável do projeto, as dlls (descompactadas) e o banco de dados (descompactado).
 - Src : Fica todo código fonte do projeto
 - Tmp : Ficam os arquivos que precisaremos disponibilizar para o projeto funcionar.
-  - Data.zip : Contem o arquivo de banco de dados, MOVEBID.FDB.
+  - Data.zip : Contem o arquivo de banco de dados, MOVEBIT.FDB.
   - DLLs.zip : Contem as dlls necessárias para o funcionamento do sistema.
